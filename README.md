@@ -4,12 +4,15 @@ This project analyzes the historical performance of a 4-stock Indian portfolio u
 - DAILY RETURNS
 - CUMULATIVE RETURNS
 - SHARP RATIO
+
 TOOLS USED ( PYTHON , yfinance , pandas , NumPy , Matplotlib , Jupyter Notebook )
+
 Stocks Analyzed
 - TCS ( IT SECTOR )
 - SUN PHARMA ( PHARMA SECTOR )
 - ADANI GREEN ( SUSTAINABLE ENERGY SECTOR )
 - ONGC ( COMMODITY SECTOR / PETROLEUM SECTOR )
+
 Features Implemented
 - Historical stock price download
 - Daily return calculation
