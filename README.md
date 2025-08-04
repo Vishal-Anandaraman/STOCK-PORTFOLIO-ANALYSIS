@@ -1,0 +1,2 @@
+# STOCK-PORTFOLIO-ANALYSIS
+Risk-return analysis of TCS, SUN PHARMA, ADANI GREEN, ONGC using Python from 01-01-2020 to 31-12-2024. 
